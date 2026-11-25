@@ -1,2 +1,2 @@
-- [Data & Product analyst](https://github.com/vlaxovlex/Resume/blob/main/Data%20%26%20Product%20analyst%20%D0%9F%D1%8F%D1%82%D0%B0%D1%88%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.pdf))
-- [Data scientist](https://github.com/vlaxovlex/Resume/blob/main/Data%20scientist%20%D0%9F%D1%8F%D1%82%D0%B0%D1%88%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.pdf))
+- [Data & Product analyst](https://github.com/vlaxovlex/Resume/blob/main/Data%20%26%20Product%20analyst%20%D0%9F%D1%8F%D1%82%D0%B0%D1%88%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.pdf)
+- [Data scientist](https://github.com/vlaxovlex/Resume/blob/main/Data%20scientist%20%D0%9F%D1%8F%D1%82%D0%B0%D1%88%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.pdf)
